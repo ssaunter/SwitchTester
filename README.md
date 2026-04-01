@@ -44,6 +44,8 @@ The main loop determines the current LED_MODE, checks for keyswitch presses, and
 | **Cherry MX Blue 60g** | 1 | $0.38 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/cherry-mx-blue-60g-clicky?variant=48007305003308) |
 | **DSA Keycaps** | 5 | (have) |  |
 | **1x7 Male Headers** | 2 | (have) |  |
+| **M3x5x5 Heatset Inserts** | 2 | (have) |  |
+| **M3x10 Bolt** | 2 | (have) |  |
 
 
 Totals
